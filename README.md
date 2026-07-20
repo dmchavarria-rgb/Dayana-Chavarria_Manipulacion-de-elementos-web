@@ -22,6 +22,7 @@ SweetAlert2 – confirmaciones visuales y mensajes interactivos.
 
 # Forma de ejecución
 Clonar o descargar el repositorio.
+https://github.com/dmchavarria-rgb/Dayana-Chavarria_Manipulacion-de-elementos-web.git
 
 Abrir el archivo index.html en cualquier navegador web moderno.
 
